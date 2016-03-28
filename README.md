@@ -12,6 +12,14 @@ and various commands using a web project.
 
 Sample website with plenty of files for demos
 
+As stated above, the main purpose of this is to provide
+example for git demos.
+
 ## How to Contribute
 
+
+
 ## Deployment
+
+This is a sample web project, deployment can be only any webserver
+or local file system.
