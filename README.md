@@ -23,3 +23,7 @@ example for git demos.
 
 This is a sample web project, deployment can be only any webserver
 or local file system.
+
+## Copyright
+
+Copyright 2016 Git Training 
