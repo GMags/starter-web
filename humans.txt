@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+  Gerald Maguire gerald.git@icloud.com 
 
 # THANKS
 
