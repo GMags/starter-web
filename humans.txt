@@ -3,11 +3,11 @@
 
 # TEAM
 
-  Gerald Maguire gerald.git@icloud.com 
+  Gerald Maguire gerald.git@icloud.com
 
 # THANKS
 
-    <name>
+  Thanks to all my students
 
 # TECHNOLOGY COLOPHON
 
