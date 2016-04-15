@@ -8,7 +8,7 @@ showing how to use git and github together
 This is an example to show different parts of the git repository
 and various commands using a web project.
 
-Adding a line for rebasing example
+Adding a line for rebasing example, adding more text for rebasing example from myfeature branch.
 
 ## Purpose
 
