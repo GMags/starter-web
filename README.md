@@ -17,7 +17,7 @@ example for git demos.
 
 ## How to Contribute
 
-
+Please fork this repository and issue pull requests for review.
 
 ## Deployment
 
@@ -26,4 +26,4 @@ or local file system.
 
 ## Copyright
 
-Copyright 2016 Git Training 
+Copyright 2016 Git Training
