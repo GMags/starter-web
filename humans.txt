@@ -7,9 +7,15 @@
 
 # THANKS
 
+<<<<<<< HEAD
   Thanks to all my students
+=======
+    All my students
+    please review this course
+>>>>>>> 75ec1425695012529581b115f1bd6ce19843260a
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    jQuery, Modernizr
+    jQuery, Modernizr, c#ßœ
+    

@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
-showing how to use git and github together
+showing how to use git and github together. adding emer fix.
 
 ## Introduction
 
@@ -28,4 +28,4 @@ or local file system.
 
 ## Copyright
 
-Copyright 2016 Git Training
+Copyright 2016 Git Training. All rights reserved.
