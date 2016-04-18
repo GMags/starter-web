@@ -26,4 +26,4 @@ or local file system.
 
 ## Copyright
 
-Copyright 2016 Git Training
+Copyright 2016 Git Training. All rights reserved.
